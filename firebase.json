@@ -22,5 +22,13 @@
         "firebase-debug.*.log"
       ]
     }
-  ]
-}
+  ],  "emulators": {
+    "functions": {
+      "host": "LOCALHOST",
+      "port": "5050"
+    }
+  }
+    
+    }
+  
+
